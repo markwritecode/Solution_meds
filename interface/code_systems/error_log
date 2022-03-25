@@ -1,0 +1,2 @@
+[27-Jan-2022 12:25:56 UTC] SQL Error with statement:query failed: LOAD DATA LOCAL INFILE &#039;/tmp/ICD9/CMS32_DESC_SHORT_DX.txt&#039; INTO TABLE icd9_dx_code FIELDS TERMINATED BY &#039;
+[27-Jan-2022 12:27:16 UTC] SQL Error with statement:query failed: LOAD DATA LOCAL INFILE &#039;/tmp/ICD10/icd10pcs_order_2021.txt&#039; INTO TABLE icd10_pcs_order_code FIELDS TERMINATED BY &#039;

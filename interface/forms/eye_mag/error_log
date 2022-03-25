@@ -1,0 +1,92 @@
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined array key "issue" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 42
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined array key "deletion" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 43
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined array key "form_save" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 44
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined array key "providerID" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 69
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined variable $thistype in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 78
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined variable $qry in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 200
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Attempt to read property "EOF" on null in /home/soluyggw/public_html/library/sql.inc on line 199
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined array key "type" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 476
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined array key "type" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 476
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined variable $title in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 647
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined variable $title in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 647
+[08-Mar-2022 13:46:40 UTC] PHP Warning:  Undefined variable $title in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 647
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "title" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 690
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "diagnosis" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 696
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "begdate" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 702
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "enddate" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 706
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "enddate" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 707
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "occurrence" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 721
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "classification" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 736
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "classification" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 736
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "classification" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 736
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reaction" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 749
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "referredby" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 755
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "subtype" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 760
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "subtype" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 762
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "comments" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 772
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "outcome" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 779
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "destination" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 787
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "dateState" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 803
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "dateEnd" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 804
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reslist" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 908
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reslist" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 911
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reslist" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 914
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reslist" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 917
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reslist" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 920
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reslist" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 923
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reslist" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 926
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reslist" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 929
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "reslist" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 932
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "tobacco" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 947
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 947
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "tobacco" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 963
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 963
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "coffee" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 980
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 980
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "coffee" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 983
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 983
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "coffee" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 987
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 987
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "coffee" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 990
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 990
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "alcohol" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1007
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1007
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "alcohol" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1010
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1010
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "alcohol" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1014
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1014
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "alcohol" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1017
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1017
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "recreational_drugs" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1034
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1034
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "recreational_drugs" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1037
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1037
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "recreational_drugs" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1041
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1041
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "recreational_drugs" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1044
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1044
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "counseling" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1061
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1061
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "counseling" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1064
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1064
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "counseling" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1068
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1068
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "counseling" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1071
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1071
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "exercise_patterns" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1089
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1089
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "exercise_patterns" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1092
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1092
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "exercise_patterns" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1096
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1096
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "exercise_patterns" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1099
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1099
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "hazardous_activities" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1115
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1115
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "hazardous_activities" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1118
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1118
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "hazardous_activities" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1122
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1122
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined array key "hazardous_activities" in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1124
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1124
+[08-Mar-2022 13:46:41 UTC] PHP Warning:  Undefined variable $form_index in /home/soluyggw/public_html/interface/forms/eye_mag/a_issue.php on line 1347

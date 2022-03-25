@@ -1,0 +1,11 @@
+[26-Jan-2022 12:25:57 UTC] PHP Warning:  Undefined array key "register" in /home/soluyggw/public_html/portal/account/account.php on line 20
+[26-Jan-2022 12:25:57 UTC] PHP Warning:  Undefined array key "credentials_update" in /home/soluyggw/public_html/portal/account/account.php on line 21
+[26-Jan-2022 12:25:57 UTC] PHP Warning:  Undefined array key "credentials_update" in /home/soluyggw/public_html/portal/account/account.php on line 39
+[27-Jan-2022 09:56:22 UTC] PHP Warning:  Undefined array key "uname" in /home/soluyggw/public_html/portal/account/index_reset.php on line 61
+[09-Feb-2022 11:03:20 UTC] PHP Warning:  Undefined array key "register" in /home/soluyggw/public_html/portal/account/account.php on line 20
+[09-Feb-2022 11:03:20 UTC] PHP Warning:  Undefined array key "credentials_update" in /home/soluyggw/public_html/portal/account/account.php on line 21
+[09-Feb-2022 11:03:20 UTC] PHP Warning:  Undefined array key "itsme" in /home/soluyggw/public_html/portal/account/account.php on line 22
+[10-Feb-2022 10:43:18 UTC] PHP Warning:  Undefined array key "uname" in /home/soluyggw/public_html/portal/account/index_reset.php on line 61
+[28-Feb-2022 13:43:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/account/account.lib.php on line 85
+[01-Mar-2022 11:13:27 UTC] PHP Warning:  Undefined array key "language_direction" in /home/soluyggw/public_html/library/js/xl/jquery-datetimepicker-2-5-4.js.php on line 57
+[01-Mar-2022 11:13:27 UTC] PHP Warning:  Undefined array key "language_direction" in /home/soluyggw/public_html/library/js/xl/jquery-datetimepicker-2-5-4.js.php on line 79

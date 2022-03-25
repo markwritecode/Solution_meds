@@ -1,0 +1,8 @@
+[10-Feb-2022 10:51:07 UTC] PHP Warning:  Undefined array key "mode" in /home/soluyggw/public_html/portal/sign/lib/show-signature.php on line 57
+[10-Feb-2022 10:51:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/sign/lib/show-signature.php on line 87
+[10-Feb-2022 10:51:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/sign/lib/show-signature.php on line 87
+[10-Feb-2022 10:51:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/sign/lib/show-signature.php on line 93
+[10-Feb-2022 10:51:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/sign/lib/show-signature.php on line 100
+[10-Feb-2022 14:28:33 UTC] PHP Warning:  Undefined array key "mode" in /home/soluyggw/public_html/portal/sign/lib/show-signature.php on line 57
+[10-Feb-2022 14:29:20 UTC] PHP Warning:  Undefined array key "mode" in /home/soluyggw/public_html/portal/sign/lib/show-signature.php on line 57
+[10-Feb-2022 14:29:20 UTC] PHP Warning:  Undefined array key "mode" in /home/soluyggw/public_html/portal/sign/lib/show-signature.php on line 94

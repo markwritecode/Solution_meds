@@ -1,0 +1,13 @@
+[27-Jan-2022 12:40:35 UTC] PHP Warning:  Undefined array key "cardHolderName" in /home/soluyggw/public_html/portal/lib/paylib.php on line 124
+[27-Jan-2022 12:40:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/lib/paylib.php on line 189
+[27-Jan-2022 12:40:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/lib/paylib.php on line 190
+[27-Jan-2022 12:42:52 UTC] PHP Warning:  Undefined array key "portal_init" in /home/soluyggw/public_html/portal/lib/paylib.php on line 39
+[09-Feb-2022 11:15:43 UTC] PHP Warning:  Undefined array key "cardHolderName" in /home/soluyggw/public_html/portal/lib/paylib.php on line 124
+[09-Feb-2022 11:15:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/lib/paylib.php on line 189
+[09-Feb-2022 11:15:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/lib/paylib.php on line 190
+[10-Feb-2022 10:30:09 UTC] PHP Warning:  Undefined array key "portal_init" in /home/soluyggw/public_html/portal/lib/paylib.php on line 39
+[10-Feb-2022 10:33:59 UTC] PHP Warning:  Undefined array key "cardHolderName" in /home/soluyggw/public_html/portal/lib/paylib.php on line 124
+[10-Feb-2022 10:33:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/lib/paylib.php on line 189
+[10-Feb-2022 10:33:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/portal/lib/paylib.php on line 190
+[10-Feb-2022 10:35:18 UTC] PHP Warning:  Undefined array key "portal_init" in /home/soluyggw/public_html/portal/lib/paylib.php on line 39
+[16-Mar-2022 09:21:43 UTC] PHP Warning:  Undefined array key "site_id" in /home/soluyggw/public_html/portal/verify_session.php on line 29

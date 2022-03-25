@@ -1,0 +1,2 @@
+[08-Mar-2022 13:46:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/interface/forms/eye_mag/js/eye_base.php on line 3408
+[08-Mar-2022 13:46:48 UTC] PHP Warning:  Undefined variable $parameters in /home/soluyggw/public_html/interface/forms/eye_mag/js/eye_base.php on line 3421

@@ -1,0 +1,19 @@
+[27-Jan-2022 15:04:13 UTC] PHP Warning:  Undefined array key "form_source" in /home/soluyggw/public_html/interface/patient_file/front_payment.php on line 171
+[27-Jan-2022 15:04:13 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/soluyggw/public_html/interface/patient_file/front_payment.php:198
+Stack trace:
+#0 {main}
+  thrown in /home/soluyggw/public_html/interface/patient_file/front_payment.php on line 198
+[27-Jan-2022 15:05:14 UTC] PHP Warning:  Undefined array key 2 in /home/soluyggw/public_html/interface/patient_file/pos_checkout.php on line 534
+[27-Jan-2022 15:05:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/soluyggw/public_html/interface/patient_file/pos_checkout.php on line 534
+[27-Jan-2022 15:05:14 UTC] PHP Warning:  Undefined variable $encprovider in /home/soluyggw/public_html/interface/patient_file/pos_checkout.php on line 158
+[27-Jan-2022 15:05:14 UTC] PHP Warning:  Undefined variable $svcdispdate in /home/soluyggw/public_html/interface/patient_file/pos_checkout.php on line 308
+[09-Feb-2022 11:12:57 UTC] PHP Warning:  Undefined array key "form_source" in /home/soluyggw/public_html/interface/patient_file/front_payment.php on line 171
+[09-Feb-2022 11:13:56 UTC] PHP Warning:  Undefined array key "form_source" in /home/soluyggw/public_html/interface/patient_file/front_payment.php on line 171
+[09-Feb-2022 11:18:43 UTC] PHP Warning:  Undefined variable $encprovider in /home/soluyggw/public_html/interface/patient_file/pos_checkout.php on line 158
+[09-Feb-2022 11:18:43 UTC] PHP Warning:  Undefined variable $svcdispdate in /home/soluyggw/public_html/interface/patient_file/pos_checkout.php on line 308
+[09-Feb-2022 11:18:57 UTC] PHP Warning:  Undefined variable $encprovider in /home/soluyggw/public_html/interface/patient_file/pos_checkout.php on line 158
+[09-Feb-2022 11:18:57 UTC] PHP Warning:  Undefined variable $svcdispdate in /home/soluyggw/public_html/interface/patient_file/pos_checkout.php on line 308
+[08-Mar-2022 11:45:31 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/soluyggw/public_html/interface/patient_file/front_payment.php:198
+Stack trace:
+#0 {main}
+  thrown in /home/soluyggw/public_html/interface/patient_file/front_payment.php on line 198

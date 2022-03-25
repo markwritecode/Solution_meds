@@ -1,0 +1,11 @@
+[27-Jan-2022 12:45:38 UTC] PHP Notice:  Only variables should be passed by reference in /home/soluyggw/public_html/src/Menu/PatientMenuRole.php on line 87
+[27-Jan-2022 12:45:46 UTC] PHP Notice:  Only variables should be passed by reference in /home/soluyggw/public_html/src/Menu/PatientMenuRole.php on line 87
+[27-Jan-2022 12:47:46 UTC] PHP Notice:  Only variables should be passed by reference in /home/soluyggw/public_html/src/Menu/PatientMenuRole.php on line 87
+[08-Mar-2022 12:38:56 UTC] PHP Warning:  Undefined array key "form_action" in /home/soluyggw/public_html/interface/reports/inventory_list.php on line 46
+[08-Mar-2022 12:42:19 UTC] PHP Warning:  Undefined array key "form_action" in /home/soluyggw/public_html/interface/reports/inventory_activity.php on line 352
+[08-Mar-2022 12:42:19 UTC] PHP Warning:  Undefined array key "form_product" in /home/soluyggw/public_html/interface/reports/inventory_activity.php on line 356
+[08-Mar-2022 12:42:19 UTC] PHP Warning:  Undefined array key "form_details" in /home/soluyggw/public_html/interface/reports/inventory_activity.php on line 520
+[08-Mar-2022 12:42:23 UTC] PHP Warning:  Undefined array key "form_details" in /home/soluyggw/public_html/interface/reports/inventory_activity.php on line 520
+[08-Mar-2022 12:42:23 UTC] PHP Warning:  Undefined array key "form_details" in /home/soluyggw/public_html/interface/reports/inventory_activity.php on line 556
+[08-Mar-2022 12:42:23 UTC] PHP Warning:  Undefined array key "form_details" in /home/soluyggw/public_html/interface/reports/inventory_activity.php on line 269
+[08-Mar-2022 12:42:30 UTC] PHP Warning:  Undefined array key "form_action" in /home/soluyggw/public_html/interface/reports/inventory_list.php on line 46

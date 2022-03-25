@@ -1,0 +1,34 @@
+[27-Jan-2022 11:01:00 UTC] PHP Warning:  Undefined array key "form_from_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 28
+[27-Jan-2022 11:01:00 UTC] PHP Warning:  Undefined array key "form_to_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 29
+[31-Jan-2022 16:04:15 UTC] PHP Warning:  Undefined array key "authUser" in /home/soluyggw/public_html/library/auth.inc on line 75
+[31-Jan-2022 16:04:15 UTC] PHP Warning:  Undefined array key "authProvider" in /home/soluyggw/public_html/library/auth.inc on line 75
+[31-Jan-2022 16:04:16 UTC] PHP Warning:  Undefined array key "authUser" in /home/soluyggw/public_html/library/auth.inc on line 75
+[31-Jan-2022 16:04:16 UTC] PHP Warning:  Undefined array key "authProvider" in /home/soluyggw/public_html/library/auth.inc on line 75
+[04-Feb-2022 15:21:32 UTC] PHP Warning:  Undefined array key "authUser" in /home/soluyggw/public_html/library/auth.inc on line 75
+[04-Feb-2022 15:21:32 UTC] PHP Warning:  Undefined array key "authProvider" in /home/soluyggw/public_html/library/auth.inc on line 75
+[09-Feb-2022 14:40:20 UTC] PHP Parse error:  Unterminated comment starting line 3 in /home/soluyggw/public_html/interface/main/about_page.php on line 3
+[09-Feb-2022 14:40:23 UTC] PHP Parse error:  Unterminated comment starting line 3 in /home/soluyggw/public_html/interface/main/about_page.php on line 3
+[09-Feb-2022 14:40:34 UTC] PHP Parse error:  Unterminated comment starting line 3 in /home/soluyggw/public_html/interface/main/about_page.php on line 3
+[09-Feb-2022 14:41:14 UTC] PHP Parse error:  Unterminated comment starting line 3 in /home/soluyggw/public_html/interface/main/about_page.php on line 3
+[10-Feb-2022 14:23:52 UTC] PHP Warning:  Undefined array key "form_from_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 28
+[10-Feb-2022 14:23:52 UTC] PHP Warning:  Undefined array key "form_to_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 29
+[21-Feb-2022 10:35:53 UTC] PHP Warning:  Undefined array key "form_from_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 28
+[21-Feb-2022 10:35:53 UTC] PHP Warning:  Undefined array key "form_to_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 29
+[28-Feb-2022 16:21:37 UTC] PHP Warning:  Undefined array key "authUser" in /home/soluyggw/public_html/library/auth.inc on line 75
+[28-Feb-2022 16:21:37 UTC] PHP Warning:  Undefined array key "authProvider" in /home/soluyggw/public_html/library/auth.inc on line 75
+[28-Feb-2022 16:21:38 UTC] PHP Warning:  Undefined array key "authUser" in /home/soluyggw/public_html/library/auth.inc on line 75
+[28-Feb-2022 16:21:38 UTC] PHP Warning:  Undefined array key "authProvider" in /home/soluyggw/public_html/library/auth.inc on line 75
+[08-Mar-2022 11:13:30 UTC] PHP Warning:  Undefined array key "authUser" in /home/soluyggw/public_html/library/auth.inc on line 75
+[08-Mar-2022 11:13:30 UTC] PHP Warning:  Undefined array key "authProvider" in /home/soluyggw/public_html/library/auth.inc on line 75
+[08-Mar-2022 12:29:29 UTC] PHP Warning:  Undefined array key "form_from_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 28
+[08-Mar-2022 12:29:29 UTC] PHP Warning:  Undefined array key "form_to_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 29
+[08-Mar-2022 12:44:29 UTC] PHP Warning:  Undefined array key "form_from_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 28
+[08-Mar-2022 12:44:29 UTC] PHP Warning:  Undefined array key "form_to_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 29
+[08-Mar-2022 13:38:30 UTC] PHP Warning:  Undefined array key "form_from_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 28
+[08-Mar-2022 13:38:30 UTC] PHP Warning:  Undefined array key "form_to_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 29
+[09-Mar-2022 03:17:36 UTC] PHP Warning:  Undefined array key "form_from_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 28
+[09-Mar-2022 03:17:36 UTC] PHP Warning:  Undefined array key "form_to_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 29
+[14-Mar-2022 11:28:31 UTC] PHP Warning:  Undefined array key "form_from_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 28
+[14-Mar-2022 11:28:31 UTC] PHP Warning:  Undefined array key "form_to_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 29
+[14-Mar-2022 11:28:31 UTC] PHP Warning:  Undefined array key "form_from_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 28
+[14-Mar-2022 11:28:31 UTC] PHP Warning:  Undefined array key "form_to_doc_date" in /home/soluyggw/public_html/interface/main/display_documents.php on line 29

@@ -1,0 +1,39 @@
+[26-Jan-2022 12:40:56 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:40:56 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 12:41:12 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:41:12 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 12:41:15 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:41:15 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 12:41:16 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:41:16 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 12:41:17 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:41:17 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 12:41:28 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:41:28 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 12:41:36 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:41:36 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 11:42:06 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'soluyggw_admin'@'localhost' (using password: YES) in /home/soluyggw/public_html/library/ADODB_mysqli_log.php on line 191
+[26-Jan-2022 11:42:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/soluyggw/public_html/vendor/adodb/adodb-php/drivers/adodb-mysqli.inc.php:788
+Stack trace:
+#0 /home/soluyggw/public_html/vendor/adodb/adodb-php/drivers/adodb-mysqli.inc.php(788): mysqli_query()
+#1 /home/soluyggw/public_html/vendor/adodb/adodb-php/adodb.inc.php(1263): ADODB_mysqli->_query()
+#2 /home/soluyggw/public_html/vendor/adodb/adodb-php/adodb.inc.php(1241): ADOConnection->_Execute()
+#3 /home/soluyggw/public_html/library/ADODB_mysqli_log.php(60): ADOConnection->Execute()
+#4 /home/soluyggw/public_html/library/sql.inc(53): ADODB_mysqli_log->ExecuteNoLog()
+#5 /home/soluyggw/public_html/interface/globals.php(268): require_once('/home/soluyggw/...')
+#6 /home/soluyggw/public_html/interface/login/login.php(28): require_once('/home/soluyggw/...')
+#7 {main}
+  thrown in /home/soluyggw/public_html/vendor/adodb/adodb-php/drivers/adodb-mysqli.inc.php on line 788
+[26-Jan-2022 12:42:21 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:42:21 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 12:42:27 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:42:27 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 12:42:32 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:42:32 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[26-Jan-2022 12:42:35 Africa/Lagos] OpenEMR Error : Decryption failed authentication.
+[26-Jan-2022 12:42:35 Africa/Lagos] OpenEMR Error : Key creation is not working - Exiting.
+[31-Jan-2022 16:04:04 UTC] Request with site id 'default/robots.txt' contains invalid characters.
+[09-Feb-2022 14:55:12 UTC] Request with site id 'default/' contains invalid characters.
+[09-Feb-2022 14:55:12 UTC] Request with site id 'default/' contains invalid characters.
+[09-Feb-2022 14:55:12 UTC] Request with site id 'default/' contains invalid characters.
+[28-Feb-2022 16:21:29 UTC] Request with site id 'default/robots.txt' contains invalid characters.

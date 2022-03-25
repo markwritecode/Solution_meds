@@ -1,0 +1,10 @@
+[26-Jan-2022 14:59:15 UTC] PHP Notice:  Only variables should be passed by reference in /home/soluyggw/public_html/src/Menu/PatientMenuRole.php on line 87
+[27-Jan-2022 12:45:27 UTC] PHP Notice:  Only variables should be passed by reference in /home/soluyggw/public_html/src/Menu/PatientMenuRole.php on line 87
+[27-Jan-2022 12:48:18 UTC] PHP Notice:  Only variables should be passed by reference in /home/soluyggw/public_html/src/Menu/PatientMenuRole.php on line 87
+[27-Jan-2022 12:49:15 UTC] PHP Notice:  Only variables should be passed by reference in /home/soluyggw/public_html/src/Menu/PatientMenuRole.php on line 87
+[27-Jan-2022 12:49:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/library/options.inc.php on line 2219
+[27-Jan-2022 12:49:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/library/options.inc.php on line 2222
+[27-Jan-2022 12:49:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/soluyggw/public_html/library/options.inc.php on line 2223
+[27-Jan-2022 12:49:28 UTC] PHP Warning:  Undefined variable $insurancedata in /home/soluyggw/public_html/interface/patient_file/transaction/print_referral.php on line 218
+[27-Jan-2022 12:49:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/soluyggw/public_html/interface/patient_file/transaction/print_referral.php on line 218
+[10-Feb-2022 10:34:35 UTC] PHP Notice:  Only variables should be passed by reference in /home/soluyggw/public_html/src/Menu/PatientMenuRole.php on line 87

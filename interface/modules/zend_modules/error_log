@@ -1,0 +1,4 @@
+[27-Jan-2022 10:59:51 UTC] Documentsdoes not have a controller object
+[27-Jan-2022 10:59:51 UTC] PHP Warning:  Undefined property: Installer\Controller\InstallerController::$helperObject in /home/soluyggw/public_html/interface/modules/zend_modules/module/Installer/src/Installer/Controller/InstallerController.php on line 316
+[27-Jan-2022 11:00:06 UTC] Documentsdoes not have a controller object
+[27-Jan-2022 11:00:06 UTC] PHP Warning:  Undefined property: Installer\Controller\InstallerController::$helperObject in /home/soluyggw/public_html/interface/modules/zend_modules/module/Installer/src/Installer/Controller/InstallerController.php on line 316
